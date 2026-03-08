@@ -1,0 +1,2 @@
+{ "name": "braai-planner", "version": "0.3.0", "engines": { "node": "16.x" },
+  "scripts": { "start": "node index.js" } }
